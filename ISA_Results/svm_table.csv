@@ -1,0 +1,4 @@
+Row,Avg_Perf_all_instances,Std_Perf_all_instances,Probability_of_good,Avg_Perf_selected_instances,Std_Perf_selected_instances,CV_model_accuracy,CV_model_precision,CV_model_recall,BoxConstraint,KernelScale
+collision,0.467,0.711,0.338,0.975,0.705,80.3,73.9,64.4,0.058,0.322
+Oracle,0.467,0.711,1,,,,,,,
+Selector,0.467,0.711,0.338,0.975,0.705,,73.9,65.2,,
